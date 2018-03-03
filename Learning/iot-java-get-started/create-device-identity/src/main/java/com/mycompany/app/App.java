@@ -13,7 +13,7 @@ import java.net.URISyntaxException;
 public class App 
 {
 	private static final String connectionString = "HostName=AliZIoTHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=JtwDcCz/pf8srpY+iQUN2BRQTj4fz9IIm0wad8SVcuU=";
-	private static final String deviceId = "myFirstJavaDevice";
+	private static final String deviceId = "mySecondJavaDevice";
 	public static void main( String[] args ) throws IOException, URISyntaxException, Exception
     {
     	RegistryManager registryManager = RegistryManager.createFromConnectionString(connectionString);
