@@ -1,0 +1,31 @@
+<interactionEvent>
+  <kind>PREFERENCE</kind>
+  <date>2018-02-19 16:50:06.258 GMT</date>
+  <pluginId>com.atlassian.connector.eclipse.monitor.core</pluginId>
+  <eventId>system info: os-arch</eventId>
+  <details>x86_64</details>
+</interactionEvent><interactionEvent>
+  <kind>PREFERENCE</kind>
+  <date>2018-02-19 16:50:06.273 GMT</date>
+  <pluginId>com.atlassian.connector.eclipse.monitor.core</pluginId>
+  <eventId>system info: os</eventId>
+  <details>macosx</details>
+</interactionEvent><interactionEvent>
+  <kind>PREFERENCE</kind>
+  <date>2018-02-19 16:50:06.274 GMT</date>
+  <pluginId>com.atlassian.connector.eclipse.monitor.core</pluginId>
+  <eventId>system info: org.eclipse.core.runtime</eventId>
+  <details>3.10.0.v20140318-2214</details>
+</interactionEvent><interactionEvent>
+  <kind>PREFERENCE</kind>
+  <date>2018-02-19 16:50:06.275 GMT</date>
+  <pluginId>com.atlassian.connector.eclipse.monitor.core</pluginId>
+  <eventId>system info: connector-version</eventId>
+  <details>3.2.2.v20130909</details>
+</interactionEvent><interactionEvent>
+  <kind>PREFERENCE</kind>
+  <date>2018-02-19 16:50:06.278 GMT</date>
+  <pluginId>com.atlassian.connector.eclipse.monitor.core</pluginId>
+  <eventId>system info: plugins</eventId>
+  <details>{jira.ui=3.2.2.v20130909, directclickthrough.ui=3.2.2.v20130909, jira.core=3.2.2.v20130909, monitor.ui=3.2.2.v20130909, commons.core=3.2.2.v20130909, branding.ui=3.2.2.v20130909, core=3.2.2.v20130909, help=3.2.2.v20130909, bamboo.core=3.2.2.v20130909, ui=3.2.2.v20130909, bamboo.ui=3.2.2.v20130909, monitor.core=3.2.2.v20130909, commons.ui=3.2.2.v20130909}</details>
+</interactionEvent>
